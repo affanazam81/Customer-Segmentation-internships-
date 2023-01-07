@@ -1,5 +1,5 @@
-# Customer-Segmentation-internships-
-CUSTOMER-SEGMENTATION-UNSUPERVISED-ML-
+# CUSTOMER-SEGMENTATION-UNSUPERVISED-ML-
+
 
 Customer-Segmentation
 
